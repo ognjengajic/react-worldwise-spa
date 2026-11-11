@@ -35,6 +35,90 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-11T17:38:54.750Z",
+      "notes": "",
+      "position": {
+        "lat": "39.992772076765945",
+        "lng": "-0.03278732299804688"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2026-11-11T17:49:09.912Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.512601715736686",
+        "lng": "1.5353393554687502"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Sassari",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-11-11T17:53:23.936Z",
+      "notes": "",
+      "position": {
+        "lat": "40.72228267283148",
+        "lng": "8.561096191406252"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-11T18:04:22.953Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.33607687246644",
+        "lng": "-1.1096191406250002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Albocasser",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-11T18:05:02.641Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.35622488026969",
+        "lng": "0.022315979003906253"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lleida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-11T18:07:09.168Z",
+      "notes": "ke",
+      "position": {
+        "lat": "41.60722821271717",
+        "lng": "0.6262207031250001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Miranda de Ebro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-11T18:08:17.703Z",
+      "notes": "j",
+      "position": {
+        "lat": "42.65820178455667",
+        "lng": "-2.9113769531250004"
+      },
+      "id": 98443204
     }
   ]
 }
